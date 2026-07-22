@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 26" width="100%" role="img" aria-label="divider">
+<defs>
+  <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#1900FF" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#4B5BFF" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#1900FF" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect x="120" y="12.2" width="760" height="1.6" rx="0.8" fill="url(#ln)"/>
+<g><circle cx="167.6" cy="15.7" r="1.36" fill="#37E6FF" opacity="0">
+<animate attributeName="opacity" values="0;0.57;0.57;0" dur="9.2s" begin="-9.1s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;9.3 -10;0 -20" dur="9.2s" begin="-9.1s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="186.1" cy="13.4" r="1.55" fill="#FFFFFF" opacity="0">
+<animate attributeName="opacity" values="0;0.39;0.39;0" dur="6.9s" begin="-4.0s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;5.9 -10;0 -20" dur="6.9s" begin="-4.0s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="234.4" cy="9.3" r="0.65" fill="#7C6BFF" opacity="0">
+<animate attributeName="opacity" values="0;0.55;0.55;0" dur="8.9s" begin="-3.6s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;9.1 -10;0 -20" dur="8.9s" begin="-3.6s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="539.8" cy="15.7" r="1.38" fill="#37E6FF" opacity="0">
+<animate attributeName="opacity" values="0;0.4;0.4;0" dur="5.1s" begin="-3.8s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;6.2 -10;0 -20" dur="5.1s" begin="-3.8s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="23.4" cy="8.3" r="1.47" fill="#37E6FF" opacity="0">
+<animate attributeName="opacity" values="0;0.38;0.38;0" dur="7.4s" begin="-1.4s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;7.3 -10;0 -20" dur="7.4s" begin="-1.4s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="237.0" cy="16.9" r="0.85" fill="#7C6BFF" opacity="0">
+<animate attributeName="opacity" values="0;0.62;0.62;0" dur="8.8s" begin="-6.7s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;4.6 -10;0 -20" dur="8.8s" begin="-6.7s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="125.5" cy="12.7" r="1.59" fill="#FFFFFF" opacity="0">
+<animate attributeName="opacity" values="0;0.6;0.6;0" dur="6.7s" begin="-1.0s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;-4.2 -10;0 -20" dur="6.7s" begin="-1.0s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="950.9" cy="13.0" r="0.98" fill="#37E6FF" opacity="0">
+<animate attributeName="opacity" values="0;0.4;0.4;0" dur="6.9s" begin="-0.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;4.4 -10;0 -20" dur="6.9s" begin="-0.2s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="988.9" cy="12.9" r="1.19" fill="#7C6BFF" opacity="0">
+<animate attributeName="opacity" values="0;0.61;0.61;0" dur="8.0s" begin="-4.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;-3.6 -10;0 -20" dur="8.0s" begin="-4.2s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="976.2" cy="7.6" r="1.4" fill="#7C6BFF" opacity="0">
+<animate attributeName="opacity" values="0;0.51;0.51;0" dur="6.7s" begin="-6.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;1.9 -10;0 -20" dur="6.7s" begin="-6.2s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="308.2" cy="7.4" r="0.68" fill="#FFFFFF" opacity="0">
+<animate attributeName="opacity" values="0;0.66;0.66;0" dur="8.9s" begin="-3.3s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;3.5 -10;0 -20" dur="8.9s" begin="-3.3s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="895.5" cy="19.4" r="1.09" fill="#FFFFFF" opacity="0">
+<animate attributeName="opacity" values="0;0.75;0.75;0" dur="9.8s" begin="-5.8s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;-0.2 -10;0 -20" dur="9.8s" begin="-5.8s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="376.6" cy="9.5" r="1.65" fill="#FFFFFF" opacity="0">
+<animate attributeName="opacity" values="0;0.54;0.54;0" dur="7.8s" begin="-3.4s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;4.8 -10;0 -20" dur="7.8s" begin="-3.4s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="61.0" cy="10.0" r="1.62" fill="#7C6BFF" opacity="0">
+<animate attributeName="opacity" values="0;0.44;0.44;0" dur="6.4s" begin="-2.7s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;-8.6 -10;0 -20" dur="6.4s" begin="-2.7s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="339.4" cy="18.6" r="1.78" fill="#7C6BFF" opacity="0">
+<animate attributeName="opacity" values="0;0.42;0.42;0" dur="8.6s" begin="-0.4s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;3.0 -10;0 -20" dur="8.6s" begin="-0.4s" repeatCount="indefinite" additive="sum"/>
+</circle>
+<circle cx="908.2" cy="12.7" r="1.74" fill="#37E6FF" opacity="0">
+<animate attributeName="opacity" values="0;0.62;0.62;0" dur="9.0s" begin="-7.9s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;-1.5 -10;0 -20" dur="9.0s" begin="-7.9s" repeatCount="indefinite" additive="sum"/>
+</circle></g>
+<circle cx="500" cy="13" r="2.6" fill="#37E6FF">
+  <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/>
+  <animate attributeName="r" values="2.2;3.2;2.2" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+</svg>
