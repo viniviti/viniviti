@@ -65,7 +65,7 @@ Meu site pessoal — carrossel de projetos, conteúdo dinâmico e uma vitrine vi
 <tr>
 <td width="54%">
 
-### Blog do Vinicê
+### Blog do Vinicè
 
 Blog literário com experiência de leitura em formato de livro: virar de páginas, tipografia caprichada e o texto sempre em primeiro plano.
 
@@ -75,7 +75,7 @@ Blog literário com experiência de leitura em formato de livro: virar de págin
 
 </td>
 <td width="46%">
-  <a href="https://blog-do-vinice.vercel.app"><img src="./assets/proj-blog.svg" width="100%" alt="Blog do Vinicê"/></a>
+  <a href="https://blog-do-vinice.vercel.app"><img src="./assets/proj-blog.svg" width="100%" alt="Blog do Vinicè"/></a>
 </td>
 </tr>
 </table>
