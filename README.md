@@ -1,104 +1,157 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1900FF,100:0A0A23&height=220&section=header&text=Vin%C3%ADcius%20Freitas%20Viti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20%2F%20Fullstack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<br>
-
-<a href="https://vportfolioweb.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-1900FF?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://vcurriculoweb.vercel.app">
-  <img src="https://img.shields.io/badge/CURRÍCULO-0A0A23?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://blog-do-vinice.vercel.app">
-  <img src="https://img.shields.io/badge/BLOG-2E2E48?style=for-the-badge&logoColor=white" />
-</a>
-
+  <img src="./assets/header.svg" width="100%" alt="Vinícius Freitas Viti — Front-End / Fullstack Developer"/>
 </div>
 
-<br>
+<p align="center">
+  <a href="https://vportfolioweb.vercel.app"><img src="./assets/btn-portfolio.svg" width="290" alt="Portfólio"/></a>
+  <a href="https://vcurriculoweb.vercel.app"><img src="./assets/btn-curriculo.svg" width="290" alt="Currículo"/></a>
+  <a href="https://blog-do-vinice.vercel.app"><img src="./assets/btn-blog.svg" width="290" alt="Blog"/></a>
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## Sobre mim
 
 Front-End / Fullstack Developer na **Neuronex**, construindo a **Anna** — assistente de IA para atendimento de clientes de laboratório.
 
-Formado em Ciência da Computação pela **PUC Minas** (campus Poços de Caldas). Passagens anteriores pela Kapibara Softwares e ID Logistics.
+Formado em Ciência da Computação pela **PUC Minas** (campus Poços de Caldas). Passagens anteriores pela **Kapibara Softwares** e **ID Logistics**.
 
 Gosto de projetos com dados reais, design cuidado e acessibilidade em primeiro plano — não de exercícios genéricos.
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Stack principal
 
-### Stack principal
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nestjs,prisma,postgres,vue,angular,html,css,js&theme=dark" />
+**Front-end**
 
-</td>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vue,angular,html,css,js&theme=dark" alt="Front-end"/>
 
-### Números
+**Back-end &amp; Dados**
 
-- 📦 18 repositórios públicos
-- 🕓 Contribuindo ativamente desde 2023
-- 🧩 10+ projetos de portfólio autorais
-- 📍 Poços de Caldas, MG — Brasil
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,postgres,redis,supabase&theme=dark" alt="Back-end e Dados"/>
 
-</td>
-</tr>
-</table>
+**Ferramentas**
 
-<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker&theme=dark" alt="Ferramentas"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## Projetos em destaque
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-**[Portfólio](https://vportfolioweb.vercel.app)**
-Site pessoal com carrossel de projetos e conteúdo dinâmico.
-`Next.js` `Supabase`
-
+<td width="46%">
+  <a href="https://vportfolioweb.vercel.app"><img src="./assets/proj-portfolio.svg" width="100%" alt="Portfólio"/></a>
 </td>
-<td width="33%" valign="top">
+<td width="54%">
 
-**[Blog do Vinicè](https://blog-do-vinice.vercel.app)**
-Blog literário com experiência de leitura em formato de livro.
-`HTML` `CSS` `JS`
+### Portfólio
 
-</td>
-<td width="33%" valign="top">
+Meu site pessoal — carrossel de projetos, conteúdo dinâmico e uma vitrine viva do que ando construindo. Front-end em Next.js com dados no Supabase.
 
-**[DocumenTI](https://github.com/viniviti/DocumenTI)**
-Hub de documentação de referência para devs.
-`TypeScript` `CSS`
+`Next.js` &nbsp; `Supabase`
+
+[**Ver projeto &#8594;**](https://vportfolioweb.vercel.app)
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td width="33%" valign="top">
+<td width="54%">
 
-**A11yScope**
-Verificador de acessibilidade com engine de regras própria.
-`Next.js` `TypeScript` `Cheerio`
+### Blog do Vinicê
 
-</td>
-<td width="33%" valign="top">
+Blog literário com experiência de leitura em formato de livro: virar de páginas, tipografia caprichada e o texto sempre em primeiro plano.
 
-**UpgradeCV**
-Plataforma de criação e análise de currículos com IA.
-`Next.js` `NestJS` `Prisma` `Redis`
+`HTML` &nbsp; `CSS` &nbsp; `JS`
+
+[**Ler o blog &#8594;**](https://blog-do-vinice.vercel.app)
 
 </td>
-<td width="33%" valign="top">
+<td width="46%">
+  <a href="https://blog-do-vinice.vercel.app"><img src="./assets/proj-blog.svg" width="100%" alt="Blog do Vinicê"/></a>
+</td>
+</tr>
+</table>
 
-**Crônicas do Destino**
-RPG narrativo com sistema de árvore de consequências.
-`Next.js` `NestJS` `PostgreSQL`
+<table>
+<tr>
+<td width="46%">
+  <a href="https://github.com/viniviti/DocumenTI"><img src="./assets/proj-documenti.svg" width="100%" alt="DocumenTI"/></a>
+</td>
+<td width="54%">
 
+### DocumenTI
+
+Hub que reúne a documentação de referência de linguagens e frameworks num só lugar — pensado pra quem vive consultando doc no dia a dia.
+
+`TypeScript` &nbsp; `CSS`
+
+[**Ver no GitHub &#8594;**](https://github.com/viniviti/DocumenTI)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="54%">
+
+### A11yScope
+
+Verificador de acessibilidade com engine de regras própria: aponta problemas de contraste, semântica e navegação antes do deploy.
+
+`Next.js` &nbsp; `TypeScript` &nbsp; `Cheerio`
+
+[**Ver projeto &#8594;**](https://github.com/viniviti?tab=repositories)
+
+</td>
+<td width="46%">
+  <a href="https://github.com/viniviti?tab=repositories"><img src="./assets/proj-a11yscope.svg" width="100%" alt="A11yScope"/></a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="46%">
+  <a href="https://github.com/viniviti?tab=repositories"><img src="./assets/proj-upgradecv.svg" width="100%" alt="UpgradeCV"/></a>
+</td>
+<td width="54%">
+
+### UpgradeCV
+
+Plataforma de criação e análise de currículos com IA — estrutura, pontua e sugere melhorias pra destravar entrevistas.
+
+`Next.js` &nbsp; `NestJS` &nbsp; `Prisma` &nbsp; `Redis`
+
+[**Ver projeto &#8594;**](https://github.com/viniviti?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="54%">
+
+### Crônicas do Destino
+
+RPG narrativo com sistema de árvore de consequências: cada escolha ramifica a história e leva a um final diferente.
+
+`Next.js` &nbsp; `NestJS` &nbsp; `PostgreSQL`
+
+[**Ver projeto &#8594;**](https://github.com/viniviti?tab=repositories)
+
+</td>
+<td width="46%">
+  <a href="https://github.com/viniviti?tab=repositories"><img src="./assets/proj-cronicas.svg" width="100%" alt="Crônicas do Destino"/></a>
 </td>
 </tr>
 </table>
@@ -109,27 +162,17 @@ RPG narrativo com sistema de árvore de consequências.
 
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## Conecte-se
 
 <div align="center">
 
-<a href="https://linkedin.com/in/vin%C3%ADcius-freitas-viti-02a1ba236">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/vinicius_viti">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://wa.me/5535998178132">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="mailto:viti.2901@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/vin%C3%ADcius-freitas-viti-02a1ba236"><img src="https://img.shields.io/badge/-LinkedIn-1900FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/vinicius_viti"><img src="https://img.shields.io/badge/-Instagram-15154A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://wa.me/5535998178132"><img src="https://img.shields.io/badge/-WhatsApp-1900FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="mailto:viti.2901@gmail.com"><img src="https://img.shields.io/badge/-Email-15154A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A23,100:1900FF&height=100&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
