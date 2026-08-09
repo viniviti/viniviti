@@ -2,11 +2,13 @@
   <img src="./assets/header.svg" width="100%" alt="Vinícius Freitas Viti — Front-End / Fullstack Developer"/>
 </div>
 
-<p align="center">
-  <a href="https://vportfolioweb.vercel.app"><img src="./assets/btn-portfolio.svg" width="290" alt="Portfólio"/></a>
-  <a href="https://vcurriculoweb.vercel.app"><img src="./assets/btn-curriculo.svg" width="290" alt="Currículo"/></a>
-  <a href="https://blog-do-vinice.vercel.app"><img src="./assets/btn-blog.svg" width="290" alt="Blog"/></a>
-</p>
+<table align="center" cellspacing="14" cellpadding="0" border="0">
+<tr>
+<td width="33%" align="center"><a href="https://vportfolioweb.vercel.app"><img src="./assets/btn-portfolio.svg" width="100%" alt="Portfólio"/></a></td>
+<td width="33%" align="center"><a href="https://vcurriculoweb.vercel.app"><img src="./assets/btn-curriculo.svg" width="100%" alt="Currículo"/></a></td>
+<td width="34%" align="center"><a href="https://blog-do-vinice.vercel.app"><img src="./assets/btn-blog.svg" width="100%" alt="Blog"/></a></td>
+</tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -105,17 +107,15 @@ Hub que reúne a documentação de referência de linguagens e frameworks num s�
 
 ### NexusBank
 
-<!-- TODO: ajustar descrição -->
-Descrição do projeto aqui.
+Dashboard bancário fictício em Angular, sem backend real: os dados vêm de um serviço mock com latência e falhas simuladas, pra treinar loading states e tratamento de erro de forma realista.
 
-<!-- TODO: ajustar stack -->
-`Stack1` &nbsp; `Stack2`
+`Angular` &nbsp; `TypeScript` &nbsp; `RxJS`
 
-[**Ver projeto &#8594;**](https://github.com/viniviti?tab=repositories)
+[**Ver projeto &#8594;**](https://github.com/viniviti/NexusBank)
 
 </td>
 <td width="46%">
-  <a href="https://github.com/viniviti?tab=repositories"><img src="./assets/proj-nexusbank.svg" width="100%" alt="NexusBank"/></a>
+  <a href="https://github.com/viniviti/NexusBank"><img src="./assets/proj-nexusbank.svg" width="100%" alt="NexusBank"/></a>
 </td>
 </tr>
 </table>
