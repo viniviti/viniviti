@@ -2,13 +2,11 @@
   <img src="./assets/header.svg" width="100%" alt="Vinícius Freitas Viti — Front-End / Fullstack Developer"/>
 </div>
 
-<table align="center" cellspacing="14" cellpadding="0" border="0">
-<tr>
-<td width="33%" align="center"><a href="https://vportfolioweb.vercel.app"><img src="./assets/btn-portfolio.svg" width="100%" alt="Portfólio"/></a></td>
-<td width="33%" align="center"><a href="https://vcurriculoweb.vercel.app"><img src="./assets/btn-curriculo.svg" width="100%" alt="Currículo"/></a></td>
-<td width="34%" align="center"><a href="https://blog-do-vinice.vercel.app"><img src="./assets/btn-blog.svg" width="100%" alt="Blog"/></a></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://vportfolioweb.vercel.app"><img src="./assets/btn-portfolio.svg" width="265" alt="Portfólio"/></a>
+  <a href="https://vcurriculoweb.vercel.app"><img src="./assets/btn-curriculo.svg" width="265" alt="Currículo"/></a>
+  <a href="https://blog-do-vinice.vercel.app"><img src="./assets/btn-blog.svg" width="265" alt="Blog"/></a>
+</p>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -44,12 +42,7 @@ Gosto de projetos com dados reais, design cuidado e acessibilidade em primeiro p
 
 ## Projetos em destaque
 
-<table>
-<tr>
-<td width="46%">
-  <a href="https://vportfolioweb.vercel.app"><img src="./assets/proj-portfolio.svg" width="100%" alt="Portfólio"/></a>
-</td>
-<td width="54%">
+<img align="left" width="300" src="./assets/proj-portfolio.svg" alt="Portfólio"/>
 
 ### Portfólio
 
@@ -59,13 +52,8 @@ Meu site pessoal — carrossel de projetos, conteúdo dinâmico e uma vitrine vi
 
 [**Ver projeto &#8594;**](https://vportfolioweb.vercel.app)
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="54%">
+<br clear="both"/>
+<br/>
 
 ### Blog do Vinicè
 
@@ -75,19 +63,12 @@ Blog literário com experiência de leitura em formato de livro: virar de págin
 
 [**Ler o blog &#8594;**](https://blog-do-vinice.vercel.app)
 
-</td>
-<td width="46%">
-  <a href="https://blog-do-vinice.vercel.app"><img src="./assets/proj-blog.svg" width="100%" alt="Blog do Vinicè"/></a>
-</td>
-</tr>
-</table>
+<img align="right" width="300" src="./assets/proj-blog.svg" alt="Blog do Vinicè"/>
 
-<table>
-<tr>
-<td width="46%">
-  <a href="https://github.com/viniviti/DocumenTI"><img src="./assets/proj-documenti.svg" width="100%" alt="DocumenTI"/></a>
-</td>
-<td width="54%">
+<br clear="both"/>
+<br/>
+
+<img align="left" width="300" src="./assets/proj-documenti.svg" alt="DocumenTI"/>
 
 ### DocumenTI
 
@@ -97,13 +78,8 @@ Hub que reúne a documentação de referência de linguagens e frameworks num s�
 
 [**Ver no GitHub &#8594;**](https://github.com/viniviti/DocumenTI)
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="54%">
+<br clear="both"/>
+<br/>
 
 ### NexusBank
 
@@ -113,12 +89,9 @@ Dashboard bancário fictício em Angular, sem backend real: os dados vêm de um 
 
 [**Ver projeto &#8594;**](https://github.com/viniviti/NexusBank)
 
-</td>
-<td width="46%">
-  <a href="https://github.com/viniviti/NexusBank"><img src="./assets/proj-nexusbank.svg" width="100%" alt="NexusBank"/></a>
-</td>
-</tr>
-</table>
+<img align="right" width="300" src="./assets/proj-nexusbank.svg" alt="NexusBank"/>
+
+<br clear="both"/>
 
 <div align="center">
 
