@@ -55,6 +55,8 @@ Meu site pessoal — carrossel de projetos, conteúdo dinâmico e uma vitrine vi
 <br clear="both"/>
 <br/>
 
+<img align="right" width="300" src="./assets/proj-blog.svg" alt="Blog do Vinicè"/>
+
 ### Blog do Vinicè
 
 Blog literário com experiência de leitura em formato de livro: virar de páginas, tipografia caprichada e o texto sempre em primeiro plano.
@@ -62,8 +64,6 @@ Blog literário com experiência de leitura em formato de livro: virar de págin
 `HTML` &nbsp; `CSS` &nbsp; `JS`
 
 [**Ler o blog &#8594;**](https://blog-do-vinice.vercel.app)
-
-<img align="right" width="300" src="./assets/proj-blog.svg" alt="Blog do Vinicè"/>
 
 <br clear="both"/>
 <br/>
@@ -81,6 +81,8 @@ Hub que reúne a documentação de referência de linguagens e frameworks num s�
 <br clear="both"/>
 <br/>
 
+<img align="right" width="300" src="./assets/proj-nexusbank.svg" alt="NexusBank"/>
+
 ### NexusBank
 
 Dashboard bancário fictício em Angular, sem backend real: os dados vêm de um serviço mock com latência e falhas simuladas, pra treinar loading states e tratamento de erro de forma realista.
@@ -88,8 +90,6 @@ Dashboard bancário fictício em Angular, sem backend real: os dados vêm de um 
 `Angular` &nbsp; `TypeScript` &nbsp; `RxJS`
 
 [**Ver projeto &#8594;**](https://github.com/viniviti/NexusBank)
-
-<img align="right" width="300" src="./assets/proj-nexusbank.svg" alt="NexusBank"/>
 
 <br clear="both"/>
 
