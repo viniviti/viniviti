@@ -103,55 +103,19 @@ Hub que reúne a documentação de referência de linguagens e frameworks num s�
 <tr>
 <td width="54%">
 
-### A11yScope
+### NexusBank
 
-Verificador de acessibilidade com engine de regras própria: aponta problemas de contraste, semântica e navegação antes do deploy.
+<!-- TODO: ajustar descrição -->
+Descrição do projeto aqui.
 
-`Next.js` &nbsp; `TypeScript` &nbsp; `Cheerio`
-
-[**Ver projeto &#8594;**](https://github.com/viniviti?tab=repositories)
-
-</td>
-<td width="46%">
-  <a href="https://github.com/viniviti?tab=repositories"><img src="./assets/proj-a11yscope.svg" width="100%" alt="A11yScope"/></a>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="46%">
-  <a href="https://github.com/viniviti?tab=repositories"><img src="./assets/proj-upgradecv.svg" width="100%" alt="UpgradeCV"/></a>
-</td>
-<td width="54%">
-
-### UpgradeCV
-
-Plataforma de criação e análise de currículos com IA — estrutura, pontua e sugere melhorias pra destravar entrevistas.
-
-`Next.js` &nbsp; `NestJS` &nbsp; `Prisma` &nbsp; `Redis`
-
-[**Ver projeto &#8594;**](https://github.com/viniviti?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="54%">
-
-### Crônicas do Destino
-
-RPG narrativo com sistema de árvore de consequências: cada escolha ramifica a história e leva a um final diferente.
-
-`Next.js` &nbsp; `NestJS` &nbsp; `PostgreSQL`
+<!-- TODO: ajustar stack -->
+`Stack1` &nbsp; `Stack2`
 
 [**Ver projeto &#8594;**](https://github.com/viniviti?tab=repositories)
 
 </td>
 <td width="46%">
-  <a href="https://github.com/viniviti?tab=repositories"><img src="./assets/proj-cronicas.svg" width="100%" alt="Crônicas do Destino"/></a>
+  <a href="https://github.com/viniviti?tab=repositories"><img src="./assets/proj-nexusbank.svg" width="100%" alt="NexusBank"/></a>
 </td>
 </tr>
 </table>
